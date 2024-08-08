@@ -13,8 +13,7 @@ export default function App() {
       >Perfil</Link> 
 
 
-      <Link href= "/Register" style={{color: 'red',marginTop: 20, fontSize: 30 }}
-      >Registro</Link>
+      
     </View>
   );
 }
